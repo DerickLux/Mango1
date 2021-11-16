@@ -1,0 +1,11 @@
+with open(file, "r", encoding = "utf-8") as f:
+  alphabet_list = []
+  for l in f:
+    stripped_line = l.strip()
+    line_list = stripped_line.split()
+    alphabet_list.append(line_list)
+      for alphabet in alphabet_list
+        words[]
+         if input ==  alphabet:
+         alphabet_list.pop(alphabet)
+         words.append(alphabet)

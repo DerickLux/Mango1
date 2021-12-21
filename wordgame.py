@@ -123,7 +123,6 @@ def start_game():
     return player1, player2
 
 def import_dictionary(filename):
-    """This method imports the dictionary from the exterior file."""
     dictionary = set(line.strip() for line in open(filename))
     return dictionary
 

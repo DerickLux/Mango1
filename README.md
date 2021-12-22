@@ -32,6 +32,6 @@ we have our if__main__=="__main__" function to run our entire code for the game.
 - 2. Type: cd Mango1 (enter)
 - 3. Type: python3 wordgame.py (enter)
 - 4. Follow the instructions of the game shown in the terminal
-#### Sources & Authors
+#### Sources & Attribution
 - check_if_valid(), input_word() from Kyungho
 - __init__(), check_win(), check_if_valid(), play_game(), input_word(), start_game(), import_dictionary(), main(), if__main__=="__main__" from Maya

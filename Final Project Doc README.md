@@ -34,4 +34,4 @@ we have our if__main__=="__main__" function to run our entire code for the game.
 - 4. Follow the instructions of the game shown in the terminal
 #### Sources & Authors
 - check_if_valid(), input_word() from Kyungho
-- __init__(), check_win(), play_game(), start_game(), import_dictionary(), main(), if__main__=="__main__" from Maya
+- __init__(), check_win(), check_if_valid(), play_game(), input_word(), start_game(), import_dictionary(), main(), if__main__=="__main__" from Maya
